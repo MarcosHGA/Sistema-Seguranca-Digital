@@ -17,9 +17,9 @@
 .vs/
 .vscode/
 obj
+*.obj/
 bin
 debug
-*.suo
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
